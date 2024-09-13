@@ -1,0 +1,37 @@
+> creating model bert
+> cuda memory allocated: 439076352
+> training arguments:
+>>> num_classes: 2
+>>> model_name: bert
+>>> method_name: fnn
+>>> train_batch_size: 4
+>>> test_batch_size: 16
+>>> num_epoch: 50
+>>> lr: 1e-05
+>>> weight_decay: 0.01
+>>> device: cuda:0
+>>> backend: False
+>>> workers: 0
+>>> timestamp: 1710922419899
+>>> log_name: bert_fnn_24-03-20_16-13-38.log
+1/50 - 2.00%
+[train] loss: 0.4810, acc: 81.97
+[test] loss: 0.4182, acc: 89.20
+2/50 - 4.00%
+[train] loss: 0.4013, acc: 90.72
+[test] loss: 0.4003, acc: 90.90
+3/50 - 6.00%
+[train] loss: 0.3755, acc: 93.62
+[test] loss: 0.4068, acc: 90.10
+4/50 - 8.00%
+[train] loss: 0.3617, acc: 95.00
+[test] loss: 0.4073, acc: 90.20
+5/50 - 10.00%
+[train] loss: 0.3575, acc: 95.47
+[test] loss: 0.3966, acc: 91.70
+6/50 - 12.00%
+[train] loss: 0.3511, acc: 96.05
+[test] loss: 0.4069, acc: 90.30
+7/50 - 14.00%
+[train] loss: 0.3491, acc: 96.28
+[test] loss: 0.4089, acc: 90.20

@@ -1,0 +1,18 @@
+> creating model bert
+> training arguments:
+>>> num_classes: 2
+>>> model_name: bert
+>>> method_name: fnn
+>>> train_batch_size: 4
+>>> test_batch_size: 16
+>>> num_epoch: 50
+>>> lr: 1e-05
+>>> weight_decay: 0.01
+>>> device: cpu
+>>> backend: False
+>>> workers: 0
+>>> timestamp: 1710920097486
+>>> log_name: bert_fnn_24-03-20_15-34-56.log
+1/50 - 2.00%
+[train] loss: 0.4741, acc: 82.70
+[test] loss: 0.4158, acc: 89.80

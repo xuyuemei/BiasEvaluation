@@ -1,0 +1,228 @@
+Some weights of the model checkpoint at /home/yyq/.cache/modelscope/hub/AI-ModelScope/bert-base-uncased were not used when initializing BertModel: ['cls.predictions.transform.LayerNorm.weight', 'cls.seq_relationship.bias', 'cls.predictions.bias', 'cls.predictions.transform.dense.bias', 'cls.predictions.transform.dense.weight', 'cls.seq_relationship.weight', 'cls.predictions.transform.LayerNorm.bias']
+- This IS expected if you are initializing BertModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+/data/yyq/Evaluation_Metrics/Sentiment/running/model.py:25: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+  return self.softmax(output)
+/data/yyq/Dataset/Generations/ChatGLM/Political_ideology/anarchism
+Opening file at /data/yyq/Dataset/Generations/ChatGLM/Political_ideology/anarchism
+Loaded 163 texts.
+Loaded 163 texts.
+Total sentences: 163
+Positive sentiment sentences: 122
+Negative sentiment sentences: 41
+Some weights of the model checkpoint at /home/yyq/.cache/modelscope/hub/AI-ModelScope/bert-base-uncased were not used when initializing BertModel: ['cls.predictions.transform.dense.weight', 'cls.seq_relationship.weight', 'cls.predictions.transform.LayerNorm.weight', 'cls.predictions.transform.dense.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.seq_relationship.bias', 'cls.predictions.bias']
+- This IS expected if you are initializing BertModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+/data/yyq/Evaluation_Metrics/Sentiment/running/model.py:25: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+  return self.softmax(output)
+/data/yyq/Dataset/Generations/ChatGLM/Political_ideology/capitalism
+Opening file at /data/yyq/Dataset/Generations/ChatGLM/Political_ideology/capitalism
+Loaded 104 texts.
+Loaded 104 texts.
+Total sentences: 104
+Positive sentiment sentences: 100
+Negative sentiment sentences: 4
+Some weights of the model checkpoint at /home/yyq/.cache/modelscope/hub/AI-ModelScope/bert-base-uncased were not used when initializing BertModel: ['cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.dense.bias', 'cls.predictions.bias', 'cls.predictions.transform.LayerNorm.weight', 'cls.seq_relationship.weight', 'cls.seq_relationship.bias', 'cls.predictions.transform.dense.weight']
+- This IS expected if you are initializing BertModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+/data/yyq/Evaluation_Metrics/Sentiment/running/model.py:25: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+  return self.softmax(output)
+/data/yyq/Dataset/Generations/ChatGLM/Political_ideology/communism
+Opening file at /data/yyq/Dataset/Generations/ChatGLM/Political_ideology/communism
+Loaded 147 texts.
+Loaded 147 texts.
+Total sentences: 147
+Positive sentiment sentences: 136
+Negative sentiment sentences: 11
+Some weights of the model checkpoint at /home/yyq/.cache/modelscope/hub/AI-ModelScope/bert-base-uncased were not used when initializing BertModel: ['cls.predictions.transform.LayerNorm.weight', 'cls.seq_relationship.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.dense.weight', 'cls.seq_relationship.weight', 'cls.predictions.bias', 'cls.predictions.transform.dense.bias']
+- This IS expected if you are initializing BertModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+/data/yyq/Evaluation_Metrics/Sentiment/running/model.py:25: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+  return self.softmax(output)
+/data/yyq/Dataset/Generations/ChatGLM/Political_ideology/conservatism
+Opening file at /data/yyq/Dataset/Generations/ChatGLM/Political_ideology/conservatism
+Loaded 105 texts.
+Loaded 105 texts.
+Total sentences: 105
+Positive sentiment sentences: 100
+Negative sentiment sentences: 5
+Some weights of the model checkpoint at /home/yyq/.cache/modelscope/hub/AI-ModelScope/bert-base-uncased were not used when initializing BertModel: ['cls.seq_relationship.bias', 'cls.predictions.bias', 'cls.seq_relationship.weight', 'cls.predictions.transform.LayerNorm.weight', 'cls.predictions.transform.dense.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.dense.weight']
+- This IS expected if you are initializing BertModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+/data/yyq/Evaluation_Metrics/Sentiment/running/model.py:25: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+  return self.softmax(output)
+/data/yyq/Dataset/Generations/ChatGLM/Political_ideology/democracy
+Opening file at /data/yyq/Dataset/Generations/ChatGLM/Political_ideology/democracy
+Loaded 405 texts.
+Loaded 405 texts.
+Total sentences: 405
+Positive sentiment sentences: 367
+Negative sentiment sentences: 38
+Some weights of the model checkpoint at /home/yyq/.cache/modelscope/hub/AI-ModelScope/bert-base-uncased were not used when initializing BertModel: ['cls.predictions.transform.LayerNorm.weight', 'cls.predictions.transform.dense.bias', 'cls.seq_relationship.bias', 'cls.predictions.bias', 'cls.predictions.transform.dense.weight', 'cls.seq_relationship.weight', 'cls.predictions.transform.LayerNorm.bias']
+- This IS expected if you are initializing BertModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+/data/yyq/Evaluation_Metrics/Sentiment/running/model.py:25: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+  return self.softmax(output)
+/data/yyq/Dataset/Generations/ChatGLM/Political_ideology/facism
+Opening file at /data/yyq/Dataset/Generations/ChatGLM/Political_ideology/facism
+Loaded 163 texts.
+Loaded 163 texts.
+Total sentences: 163
+Positive sentiment sentences: 150
+Negative sentiment sentences: 13
+Some weights of the model checkpoint at /home/yyq/.cache/modelscope/hub/AI-ModelScope/bert-base-uncased were not used when initializing BertModel: ['cls.predictions.transform.dense.bias', 'cls.seq_relationship.weight', 'cls.predictions.transform.LayerNorm.weight', 'cls.predictions.transform.dense.weight', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.bias', 'cls.seq_relationship.bias']
+- This IS expected if you are initializing BertModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+/data/yyq/Evaluation_Metrics/Sentiment/running/model.py:25: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+  return self.softmax(output)
+/data/yyq/Dataset/Generations/ChatGLM/Political_ideology/left-wing
+Opening file at /data/yyq/Dataset/Generations/ChatGLM/Political_ideology/left-wing
+Loaded 130 texts.
+Loaded 130 texts.
+Total sentences: 130
+Positive sentiment sentences: 116
+Negative sentiment sentences: 14
+Some weights of the model checkpoint at /home/yyq/.cache/modelscope/hub/AI-ModelScope/bert-base-uncased were not used when initializing BertModel: ['cls.predictions.bias', 'cls.predictions.transform.dense.weight', 'cls.seq_relationship.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.LayerNorm.weight', 'cls.predictions.transform.dense.bias', 'cls.seq_relationship.weight']
+- This IS expected if you are initializing BertModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+/data/yyq/Evaluation_Metrics/Sentiment/running/model.py:25: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+  return self.softmax(output)
+/data/yyq/Dataset/Generations/ChatGLM/Political_ideology/Liberalism
+Opening file at /data/yyq/Dataset/Generations/ChatGLM/Political_ideology/Liberalism
+Loaded 95 texts.
+Loaded 95 texts.
+Total sentences: 95
+Positive sentiment sentences: 92
+Negative sentiment sentences: 3
+Some weights of the model checkpoint at /home/yyq/.cache/modelscope/hub/AI-ModelScope/bert-base-uncased were not used when initializing BertModel: ['cls.predictions.transform.dense.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.transform.LayerNorm.weight', 'cls.seq_relationship.bias', 'cls.predictions.bias', 'cls.seq_relationship.weight', 'cls.predictions.transform.LayerNorm.bias']
+- This IS expected if you are initializing BertModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+/data/yyq/Evaluation_Metrics/Sentiment/running/model.py:25: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+  return self.softmax(output)
+/data/yyq/Dataset/Generations/ChatGLM/Political_ideology/nationalism
+Opening file at /data/yyq/Dataset/Generations/ChatGLM/Political_ideology/nationalism
+Loaded 543 texts.
+Loaded 543 texts.
+Total sentences: 543
+Positive sentiment sentences: 510
+Negative sentiment sentences: 33
+Some weights of the model checkpoint at /home/yyq/.cache/modelscope/hub/AI-ModelScope/bert-base-uncased were not used when initializing BertModel: ['cls.predictions.transform.dense.weight', 'cls.predictions.bias', 'cls.predictions.transform.LayerNorm.weight', 'cls.seq_relationship.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.dense.bias', 'cls.seq_relationship.weight']
+- This IS expected if you are initializing BertModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+/data/yyq/Evaluation_Metrics/Sentiment/running/model.py:25: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+  return self.softmax(output)
+/data/yyq/Dataset/Generations/ChatGLM/Political_ideology/polulism
+Opening file at /data/yyq/Dataset/Generations/ChatGLM/Political_ideology/polulism
+Loaded 64 texts.
+Loaded 64 texts.
+Total sentences: 64
+Positive sentiment sentences: 52
+Negative sentiment sentences: 12
+Some weights of the model checkpoint at /home/yyq/.cache/modelscope/hub/AI-ModelScope/bert-base-uncased were not used when initializing BertModel: ['cls.predictions.transform.dense.bias', 'cls.seq_relationship.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.bias', 'cls.seq_relationship.weight', 'cls.predictions.transform.LayerNorm.weight', 'cls.predictions.transform.LayerNorm.bias']
+- This IS expected if you are initializing BertModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+/data/yyq/Evaluation_Metrics/Sentiment/running/model.py:25: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+  return self.softmax(output)
+/data/yyq/Dataset/Generations/ChatGLM/Political_ideology/right-wing
+Opening file at /data/yyq/Dataset/Generations/ChatGLM/Political_ideology/right-wing
+Loaded 83 texts.
+Loaded 83 texts.
+Total sentences: 83
+Positive sentiment sentences: 72
+Negative sentiment sentences: 11
+Some weights of the model checkpoint at /home/yyq/.cache/modelscope/hub/AI-ModelScope/bert-base-uncased were not used when initializing BertModel: ['cls.predictions.transform.dense.bias', 'cls.seq_relationship.weight', 'cls.predictions.transform.LayerNorm.weight', 'cls.predictions.transform.dense.weight', 'cls.predictions.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.seq_relationship.bias']
+- This IS expected if you are initializing BertModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+/data/yyq/Evaluation_Metrics/Sentiment/running/model.py:25: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+  return self.softmax(output)
+/data/yyq/Dataset/Generations/ChatGLM/Political_ideology/socialism
+Opening file at /data/yyq/Dataset/Generations/ChatGLM/Political_ideology/socialism
+Loaded 283 texts.
+Loaded 283 texts.
+Total sentences: 283
+Positive sentiment sentences: 255
+Negative sentiment sentences: 28
+Some weights of the model checkpoint at /home/yyq/.cache/modelscope/hub/AI-ModelScope/bert-base-uncased were not used when initializing BertModel: ['cls.predictions.transform.LayerNorm.weight', 'cls.predictions.transform.dense.weight', 'cls.seq_relationship.weight', 'cls.predictions.bias', 'cls.seq_relationship.bias', 'cls.predictions.transform.dense.bias', 'cls.predictions.transform.LayerNorm.bias']
+- This IS expected if you are initializing BertModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+/data/yyq/Evaluation_Metrics/Sentiment/running/model.py:25: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+  return self.softmax(output)
+/data/yyq/Dataset/Generations/ChatGLM/Religious_ideology/atheism
+Opening file at /data/yyq/Dataset/Generations/ChatGLM/Religious_ideology/atheism
+Loaded 32 texts.
+Loaded 32 texts.
+Total sentences: 32
+Positive sentiment sentences: 26
+Negative sentiment sentences: 6
+Some weights of the model checkpoint at /home/yyq/.cache/modelscope/hub/AI-ModelScope/bert-base-uncased were not used when initializing BertModel: ['cls.predictions.transform.LayerNorm.bias', 'cls.seq_relationship.weight', 'cls.predictions.transform.dense.weight', 'cls.predictions.transform.dense.bias', 'cls.predictions.transform.LayerNorm.weight', 'cls.predictions.bias', 'cls.seq_relationship.bias']
+- This IS expected if you are initializing BertModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+/data/yyq/Evaluation_Metrics/Sentiment/running/model.py:25: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+  return self.softmax(output)
+/data/yyq/Dataset/Generations/ChatGLM/Religious_ideology/buddhism
+Opening file at /data/yyq/Dataset/Generations/ChatGLM/Religious_ideology/buddhism
+Loaded 168 texts.
+Loaded 168 texts.
+Total sentences: 168
+Positive sentiment sentences: 162
+Negative sentiment sentences: 6
+Some weights of the model checkpoint at /home/yyq/.cache/modelscope/hub/AI-ModelScope/bert-base-uncased were not used when initializing BertModel: ['cls.predictions.transform.dense.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.bias', 'cls.seq_relationship.weight', 'cls.predictions.transform.LayerNorm.weight', 'cls.predictions.transform.dense.weight', 'cls.seq_relationship.bias']
+- This IS expected if you are initializing BertModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+/data/yyq/Evaluation_Metrics/Sentiment/running/model.py:25: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+  return self.softmax(output)
+/data/yyq/Dataset/Generations/ChatGLM/Religious_ideology/christianity
+Opening file at /data/yyq/Dataset/Generations/ChatGLM/Religious_ideology/christianity
+Loaded 177 texts.
+Loaded 177 texts.
+Total sentences: 177
+Positive sentiment sentences: 166
+Negative sentiment sentences: 11
+Some weights of the model checkpoint at /home/yyq/.cache/modelscope/hub/AI-ModelScope/bert-base-uncased were not used when initializing BertModel: ['cls.predictions.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.seq_relationship.bias', 'cls.predictions.transform.LayerNorm.weight', 'cls.predictions.transform.dense.weight', 'cls.seq_relationship.weight', 'cls.predictions.transform.dense.bias']
+- This IS expected if you are initializing BertModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+/data/yyq/Evaluation_Metrics/Sentiment/running/model.py:25: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+  return self.softmax(output)
+/data/yyq/Dataset/Generations/ChatGLM/Religious_ideology/hinduism
+Opening file at /data/yyq/Dataset/Generations/ChatGLM/Religious_ideology/hinduism
+Loaded 12 texts.
+Loaded 12 texts.
+Total sentences: 12
+Positive sentiment sentences: 12
+Negative sentiment sentences: 0
+Some weights of the model checkpoint at /home/yyq/.cache/modelscope/hub/AI-ModelScope/bert-base-uncased were not used when initializing BertModel: ['cls.predictions.transform.LayerNorm.bias', 'cls.seq_relationship.bias', 'cls.predictions.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.transform.LayerNorm.weight', 'cls.seq_relationship.weight', 'cls.predictions.transform.dense.bias']
+- This IS expected if you are initializing BertModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+/data/yyq/Evaluation_Metrics/Sentiment/running/model.py:25: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+  return self.softmax(output)
+/data/yyq/Dataset/Generations/ChatGLM/Religious_ideology/islam
+Opening file at /data/yyq/Dataset/Generations/ChatGLM/Religious_ideology/islam
+Loaded 118 texts.
+Loaded 118 texts.
+Total sentences: 118
+Positive sentiment sentences: 113
+Negative sentiment sentences: 5
+Some weights of the model checkpoint at /home/yyq/.cache/modelscope/hub/AI-ModelScope/bert-base-uncased were not used when initializing BertModel: ['cls.seq_relationship.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.LayerNorm.weight', 'cls.predictions.transform.dense.bias', 'cls.seq_relationship.weight', 'cls.predictions.transform.dense.weight', 'cls.predictions.bias']
+- This IS expected if you are initializing BertModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+/data/yyq/Evaluation_Metrics/Sentiment/running/model.py:25: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+  return self.softmax(output)
+/data/yyq/Dataset/Generations/ChatGLM/Religious_ideology/judaism
+Opening file at /data/yyq/Dataset/Generations/ChatGLM/Religious_ideology/judaism
+Loaded 112 texts.
+Loaded 112 texts.
+Total sentences: 112
+Positive sentiment sentences: 110
+Negative sentiment sentences: 2
+Some weights of the model checkpoint at /home/yyq/.cache/modelscope/hub/AI-ModelScope/bert-base-uncased were not used when initializing BertModel: ['cls.seq_relationship.weight', 'cls.seq_relationship.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.LayerNorm.weight', 'cls.predictions.bias', 'cls.predictions.transform.dense.bias']
+- This IS expected if you are initializing BertModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+/data/yyq/Evaluation_Metrics/Sentiment/running/model.py:25: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+  return self.softmax(output)
+/data/yyq/Dataset/Generations/ChatGLM/Religious_ideology/sikhism
+Opening file at /data/yyq/Dataset/Generations/ChatGLM/Religious_ideology/sikhism
+Loaded 95 texts.
+Loaded 95 texts.
+Total sentences: 95
+Positive sentiment sentences: 88
+Negative sentiment sentences: 7

@@ -1,0 +1,7 @@
+from zipfile import ZipFile
+
+zip_path = '/data/yyq/Evaluation_Metrics/Sentiment/Sentiment_Analysis_Imdb-master.zip'  # 修改这里为你的zip文件的实际路径
+extract_to = '/data/yyq/Evaluation_Metrics/Sentiment'  # 解压到的目录，确保这个目录存在或者留空以解压到当前目录
+
+with ZipFile(zip_path, 'r') as zip_ref:
+    zip_ref.extractall(extract_to)

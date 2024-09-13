@@ -1,0 +1,168 @@
+> creating model bert
+> cuda memory allocated: 439076352
+> training arguments:
+>>> num_classes: 2
+>>> model_name: bert
+>>> method_name: fnn
+>>> train_batch_size: 4
+>>> test_batch_size: 16
+>>> num_epoch: 50
+>>> lr: 1e-05
+>>> weight_decay: 0.01
+>>> device: cuda:0
+>>> backend: False
+>>> workers: 0
+>>> timestamp: 1710924049004
+>>> log_name: bert_fnn_24-03-20_16-40-49.log
+1/50 - 2.00%
+[train] loss: 0.4802, acc: 82.30
+[test] loss: 0.4262, acc: 88.00
+2/50 - 4.00%
+[train] loss: 0.3950, acc: 91.55
+[test] loss: 0.4016, acc: 90.90
+3/50 - 6.00%
+[train] loss: 0.3831, acc: 92.88
+[test] loss: 0.4326, acc: 87.70
+4/50 - 8.00%
+[train] loss: 0.3770, acc: 93.65
+[test] loss: 0.4210, acc: 88.90
+5/50 - 10.00%
+[train] loss: 0.3623, acc: 94.88
+[test] loss: 0.3936, acc: 91.70
+6/50 - 12.00%
+[train] loss: 0.3519, acc: 96.08
+[test] loss: 0.4015, acc: 90.90
+7/50 - 14.00%
+[train] loss: 0.3478, acc: 96.38
+[test] loss: 0.4121, acc: 89.50
+8/50 - 16.00%
+[train] loss: 0.3502, acc: 96.15
+[test] loss: 0.4043, acc: 90.60
+9/50 - 18.00%
+[train] loss: 0.3405, acc: 97.25
+[test] loss: 0.4026, acc: 91.00
+10/50 - 20.00%
+[train] loss: 0.3420, acc: 97.05
+[test] loss: 0.4028, acc: 90.60
+11/50 - 22.00%
+[train] loss: 0.3447, acc: 96.78
+[test] loss: 0.4106, acc: 90.00
+12/50 - 24.00%
+[train] loss: 0.3363, acc: 97.67
+[test] loss: 0.3986, acc: 91.40
+13/50 - 26.00%
+[train] loss: 0.3419, acc: 97.05
+[test] loss: 0.4066, acc: 90.60
+14/50 - 28.00%
+[train] loss: 0.3384, acc: 97.45
+[test] loss: 0.4044, acc: 90.60
+15/50 - 30.00%
+[train] loss: 0.3395, acc: 97.32
+[test] loss: 0.4143, acc: 89.70
+16/50 - 32.00%
+[train] loss: 0.3284, acc: 98.52
+[test] loss: 0.4008, acc: 91.00
+17/50 - 34.00%
+[train] loss: 0.3396, acc: 97.35
+[test] loss: 0.4174, acc: 89.30
+18/50 - 36.00%
+[train] loss: 0.3389, acc: 97.38
+[test] loss: 0.4075, acc: 90.40
+19/50 - 38.00%
+[train] loss: 0.3313, acc: 98.15
+[test] loss: 0.3934, acc: 91.70
+20/50 - 40.00%
+[train] loss: 0.3310, acc: 98.22
+[test] loss: 0.4062, acc: 90.50
+21/50 - 42.00%
+[train] loss: 0.3261, acc: 98.67
+[test] loss: 0.4036, acc: 90.90
+22/50 - 44.00%
+[train] loss: 0.3355, acc: 97.70
+[test] loss: 0.4024, acc: 90.80
+23/50 - 46.00%
+[train] loss: 0.3280, acc: 98.45
+[test] loss: 0.4141, acc: 89.70
+24/50 - 48.00%
+[train] loss: 0.3281, acc: 98.47
+[test] loss: 0.4085, acc: 90.20
+25/50 - 50.00%
+[train] loss: 0.3270, acc: 98.55
+[test] loss: 0.3949, acc: 91.80
+26/50 - 52.00%
+[train] loss: 0.3250, acc: 98.72
+[test] loss: 0.3937, acc: 91.60
+27/50 - 54.00%
+[train] loss: 0.3249, acc: 98.83
+[test] loss: 0.4201, acc: 88.80
+28/50 - 56.00%
+[train] loss: 0.3250, acc: 98.83
+[test] loss: 0.4114, acc: 90.00
+29/50 - 58.00%
+[train] loss: 0.3305, acc: 98.20
+[test] loss: 0.4007, acc: 91.20
+30/50 - 60.00%
+[train] loss: 0.3320, acc: 98.12
+[test] loss: 0.4137, acc: 89.80
+31/50 - 62.00%
+[train] loss: 0.3277, acc: 98.55
+[test] loss: 0.4185, acc: 89.20
+32/50 - 64.00%
+[train] loss: 0.3308, acc: 98.17
+[test] loss: 0.4220, acc: 88.80
+33/50 - 66.00%
+[train] loss: 0.3260, acc: 98.67
+[test] loss: 0.4000, acc: 91.10
+34/50 - 68.00%
+[train] loss: 0.3234, acc: 98.98
+[test] loss: 0.4007, acc: 90.90
+35/50 - 70.00%
+[train] loss: 0.3213, acc: 99.20
+[test] loss: 0.3944, acc: 91.70
+36/50 - 72.00%
+[train] loss: 0.3263, acc: 98.70
+[test] loss: 0.4208, acc: 89.10
+37/50 - 74.00%
+[train] loss: 0.3278, acc: 98.52
+[test] loss: 0.4058, acc: 90.60
+38/50 - 76.00%
+[train] loss: 0.3289, acc: 98.40
+[test] loss: 0.4135, acc: 89.90
+39/50 - 78.00%
+[train] loss: 0.3291, acc: 98.42
+[test] loss: 0.4210, acc: 89.30
+40/50 - 80.00%
+[train] loss: 0.3260, acc: 98.72
+[test] loss: 0.4180, acc: 89.60
+41/50 - 82.00%
+[train] loss: 0.3321, acc: 98.10
+[test] loss: 0.4104, acc: 90.30
+42/50 - 84.00%
+[train] loss: 0.3304, acc: 98.30
+[test] loss: 0.4283, acc: 88.30
+43/50 - 86.00%
+[train] loss: 0.3400, acc: 97.28
+[test] loss: 0.4186, acc: 89.30
+44/50 - 88.00%
+[train] loss: 0.3303, acc: 98.20
+[test] loss: 0.4090, acc: 90.10
+45/50 - 90.00%
+[train] loss: 0.3254, acc: 98.72
+[test] loss: 0.4157, acc: 89.50
+46/50 - 92.00%
+[train] loss: 0.3216, acc: 99.17
+[test] loss: 0.4138, acc: 89.80
+47/50 - 94.00%
+[train] loss: 0.3242, acc: 98.88
+[test] loss: 0.4007, acc: 91.10
+48/50 - 96.00%
+[train] loss: 0.3236, acc: 98.95
+[test] loss: 0.4075, acc: 90.50
+49/50 - 98.00%
+[train] loss: 0.3271, acc: 98.58
+[test] loss: 0.4155, acc: 89.70
+50/50 - 100.00%
+[train] loss: 0.3233, acc: 98.98
+[test] loss: 0.4039, acc: 90.90
+best loss: 0.3949, best acc: 91.80
+log saved: bert_fnn_24-03-20_16-40-49.log

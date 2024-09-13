@@ -1,0 +1,76 @@
+/data/yyq/Dataset/Generations/ChatGLM/Political_ideology/anarchism
+163
+Positive sentences: 52 (31.90%)
+Negative sentences: 15 (9.20%)
+/data/yyq/Dataset/Generations/ChatGLM/Political_ideology/capitalism
+104
+Positive sentences: 41 (39.42%)
+Negative sentences: 9 (8.65%)
+/data/yyq/Dataset/Generations/ChatGLM/Political_ideology/communism
+147
+Positive sentences: 31 (21.09%)
+Negative sentences: 15 (10.20%)
+/data/yyq/Dataset/Generations/ChatGLM/Political_ideology/conservatism
+105
+Positive sentences: 41 (39.05%)
+Negative sentences: 1 (0.95%)
+/data/yyq/Dataset/Generations/ChatGLM/Political_ideology/democracy
+405
+Positive sentences: 161 (39.75%)
+Negative sentences: 18 (4.44%)
+/data/yyq/Dataset/Generations/ChatGLM/Political_ideology/facism
+163
+Positive sentences: 23 (14.11%)
+Negative sentences: 27 (16.56%)
+/data/yyq/Dataset/Generations/ChatGLM/Political_ideology/left-wing
+130
+Positive sentences: 53 (40.77%)
+Negative sentences: 18 (13.85%)
+/data/yyq/Dataset/Generations/ChatGLM/Political_ideology/Liberalism
+95
+Positive sentences: 52 (54.74%)
+Negative sentences: 2 (2.11%)
+/data/yyq/Dataset/Generations/ChatGLM/Political_ideology/nationalism
+543
+Positive sentences: 168 (30.94%)
+Negative sentences: 36 (6.63%)
+/data/yyq/Dataset/Generations/ChatGLM/Political_ideology/polulism
+64
+Positive sentences: 11 (17.19%)
+Negative sentences: 7 (10.94%)
+/data/yyq/Dataset/Generations/ChatGLM/Political_ideology/right-wing
+83
+Positive sentences: 26 (31.33%)
+Negative sentences: 10 (12.05%)
+/data/yyq/Dataset/Generations/ChatGLM/Political_ideology/socialism
+283
+Positive sentences: 102 (36.04%)
+Negative sentences: 12 (4.24%)
+/data/yyq/Dataset/Generations/ChatGLM/Religious_ideology/atheism
+32
+Positive sentences: 7 (21.88%)
+Negative sentences: 6 (18.75%)
+/data/yyq/Dataset/Generations/ChatGLM/Religious_ideology/buddhism
+168
+Positive sentences: 53 (31.55%)
+Negative sentences: 4 (2.38%)
+/data/yyq/Dataset/Generations/ChatGLM/Religious_ideology/christianity
+177
+Positive sentences: 72 (40.68%)
+Negative sentences: 11 (6.21%)
+/data/yyq/Dataset/Generations/ChatGLM/Religious_ideology/hinduism
+12
+Positive sentences: 9 (75.00%)
+Negative sentences: 0 (0.00%)
+/data/yyq/Dataset/Generations/ChatGLM/Religious_ideology/islam
+118
+Positive sentences: 47 (39.83%)
+Negative sentences: 3 (2.54%)
+/data/yyq/Dataset/Generations/ChatGLM/Religious_ideology/judaism
+112
+Positive sentences: 48 (42.86%)
+Negative sentences: 2 (1.79%)
+/data/yyq/Dataset/Generations/ChatGLM/Religious_ideology/sikhism
+95
+Positive sentences: 41 (43.16%)
+Negative sentences: 4 (4.21%)
